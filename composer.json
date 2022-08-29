@@ -1,6 +1,6 @@
 {
-    "name": "vsch/laravel-translation-manager",
-    "description": "Enhanced Laravel Translation Manager",
+    "name": "inDeev/laravel-translation-manager",
+    "description": "Enhanced Laravel Translation Manager fork from vsch updated for Laravel 8",
     "keywords": [
         "laravel",
         "translations",
@@ -9,6 +9,11 @@
     "homepage": "https://github.com/vsch/laravel-translation-manager",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Petr Katerinak",
+            "email": "katerinak@indeev.eu",
+            "role": "Developer"
+        },
         {
             "name": "Vladimir Schneider",
             "email": "vladimir.schneider@gmail.com",
